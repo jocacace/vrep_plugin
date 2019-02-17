@@ -49,6 +49,7 @@ link_directories("/opt/ros/groovy/lib")
 link_directories("/opt/ros/indigo/lib")
 link_directories("/opt/ros/hydro/lib")
 link_directories("/opt/ros/kinetic/lib")
+link_directories("/opt/ros/melodic/lib")
 
 #find_package( OpenCV )
 #include_directories(include ${catkin_INCLUDE_DIRS} /opt/ros/groovy/share/OpenCV)
